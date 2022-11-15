@@ -914,11 +914,11 @@ img{
     border-bottom: 1px solid rgba(255, 255, 255, 0.726);
     margin-top: 1px solid red;
     padding-bottom: 30px;
-    transform: rotate(-3deg);
-    -webkit-transform: rotate(-3deg);
-    -moz-transform: rotate(-3deg);
-    -ms-transform: rotate(-3deg);
-    -o-transform: rotate(-3deg);
+    transform: rotate(-1deg);
+    -webkit-transform: rotate(-1deg);
+    -moz-transform: rotate(-1deg);
+    -ms-transform: rotate(-1deg);
+    -o-transform: rotate(-1deg);
 }
 #footer .btm_head h3{
     color: white;
