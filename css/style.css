@@ -804,10 +804,10 @@ img{
     border: 1px solid white;
     background-color: white;
     border-radius: 50%;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    -o-border-radius: 50%;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
     line-height: 50px;
     opacity: 0;
 }
@@ -843,10 +843,10 @@ img{
     border: 2px solid black;
     line-height: 40px;
     border-radius: 50%;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    -o-border-radius: 50%;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
 }
 #group .group_icon i:hover{
     background-color: #fec600;
